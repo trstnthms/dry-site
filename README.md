@@ -1,8 +1,6 @@
-# Dry site
+# Dry website
 
-Static support and privacy pages for App Store submission.
+Generated from [app-websites](https://github.com/trstnthms/app-websites).
+Edit content and templates there, then run `npm run publish -- dry`.
 
-Suggested GitHub Pages URLs after publishing:
-
-- `https://trstnthms.github.io/dry-site/dry-support/`
-- `https://trstnthms.github.io/dry-site/dry-privacy/`
+Existing support and privacy URLs are preserved.
